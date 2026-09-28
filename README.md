@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3968"><img src="assets/ledger-light.svg?v=3968" width="100%" alt="ROFL ledger, height 3968"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3969"><img src="assets/ledger-light.svg?v=3969" width="100%" alt="ROFL ledger, height 3969"></picture>
 
 | | |
 |---|---|
-| **height** | `3968` |
-| **tip** | `0d0f005628e9037a570f964f957db2b63a7e6b42e0e9c5cc776f7e8b7c13086a` |
+| **height** | `3969` |
+| **tip** | `4fb7213a2b9ebb49212abb1314fbe9f6fb937db532d5349c98d990a66a7a4cae` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,048,054,499` expected hashes |
-| **supply** | `20999.95592877 ROFL` in `3969` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,049,103,074` expected hashes |
+| **supply** | `20999.95611950 ROFL` in `3970` unspent outputs |
 | **next reward** | `0.00019073 ROFL` |
-| **next retarget** | in `15` block(s) |
-| **next halving** | in `21` block(s) |
-| **transactions** | `3971` |
+| **next retarget** | in `14` block(s) |
+| **next halving** | in `20` block(s) |
+| **transactions** | `3972` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3969` | `4fb7213a2b9ebb49212a…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 10:04 UTC |
 | `3968` | `0d0f005628e9037a570f…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 09:54 UTC |
 | `3967` | `372999b221e1897fabb3…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 09:41 UTC |
 | `3966` | `264b03120cfc69ed3924…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 09:24 UTC |
@@ -44,7 +45,6 @@
 | `3962` | `259c9db25f14a3010e2a…` | [@ywltby](https://github.com/ywltby) | `康神开播了？` | `1` | `0.00019073` | 2026-09-28 08:32 UTC |
 | `3961` | `c9f59786b79e20f24ebb…` | [@ram0verflow](https://github.com/ram0verflow) | `we must innovate because we cannot waste` | `1` | `0.00019073` | 2026-09-28 08:25 UTC |
 | `3960` | `cc57d72bc8c2adb4263b…` | [@ywltby](https://github.com/ywltby) | `排位，比世界赛决赛还难打。` | `1` | `0.00019073` | 2026-09-28 07:49 UTC |
-| `3959` | `0f8823be3b9fb35f164f…` | [@ywltby](https://github.com/ywltby) | `遇到我们的时候，你才是挑战者。` | `1` | `0.00019073` | 2026-09-28 07:35 UTC |
 
 ### Miners
 
@@ -99,7 +99,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.06408665 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
-| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.02803780 ROFL` |
+| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.02822853 ROFL` |
 | [@daxang](https://github.com/daxang) | `rofl1qaehvw6vzus7dmrssc4rul2hgrfxdhwzc8c9h4k` | `0.02250640 ROFL` |
 | _unclaimed_ | `rofl1ql2wuplshkc5586ea8hejg93eft8cun473xc2v5` | `0.00305175 ROFL` |
 
@@ -110,7 +110,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3968. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3969. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
