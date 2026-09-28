@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3927"><img src="assets/ledger-light.svg?v=3927" width="100%" alt="ROFL ledger, height 3927"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3928"><img src="assets/ledger-light.svg?v=3928" width="100%" alt="ROFL ledger, height 3928"></picture>
 
 | | |
 |---|---|
-| **height** | `3927` |
-| **tip** | `467756e0d3ffa941f3d84f64a18596b853238ac453f226d57d8b9b4950cf2ef2` |
+| **height** | `3928` |
+| **tip** | `629b877f2d53f3ffad6aa723831a8aee98890e5ac727ffe5252c447106ad0aab` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,005,062,924` expected hashes |
-| **supply** | `20999.94810884 ROFL` in `3928` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,006,111,499` expected hashes |
+| **supply** | `20999.94829957 ROFL` in `3929` unspent outputs |
 | **next reward** | `0.00019073 ROFL` |
-| **next retarget** | in `8` block(s) |
-| **next halving** | in `62` block(s) |
-| **transactions** | `3930` |
+| **next retarget** | in `7` block(s) |
+| **next halving** | in `61` block(s) |
+| **transactions** | `3931` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3928` | `629b877f2d53f3ffad6a…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 00:12 UTC |
 | `3927` | `467756e0d3ffa941f3d8…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium Fleet #2 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-27 23:56 UTC |
 | `3926` | `dab76a36fb5c000c62fd…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium Fleet #2 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-27 23:47 UTC |
 | `3925` | `27c14c1e210a1bc3f146…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-27 23:30 UTC |
@@ -44,7 +45,6 @@
 | `3921` | `d501b73594287346f91d…` | [@ywltby](https://github.com/ywltby) | `康神开播了？` | `1` | `0.00019073` | 2026-09-27 22:26 UTC |
 | `3920` | `3a3e480b914016a91d0e…` | [@ywltby](https://github.com/ywltby) | `原神？启动！` | `1` | `0.00019073` | 2026-09-27 22:10 UTC |
 | `3919` | `558a51dd20e04e8f7511…` | [@ywltby](https://github.com/ywltby) | `原神？启动！` | `1` | `0.00019073` | 2026-09-27 21:58 UTC |
-| `3918` | `340da05bfee82aee38d9…` | [@ywltby](https://github.com/ywltby) | `都是同龄人，我原本没想降维打击。` | `1` | `0.00019073` | 2026-09-27 21:49 UTC |
 
 ### Miners
 
@@ -99,7 +99,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.06408665 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
-| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.02632123 ROFL` |
+| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.02651196 ROFL` |
 | [@daxang](https://github.com/daxang) | `rofl1qaehvw6vzus7dmrssc4rul2hgrfxdhwzc8c9h4k` | `0.02250640 ROFL` |
 | _unclaimed_ | `rofl1ql2wuplshkc5586ea8hejg93eft8cun473xc2v5` | `0.00305175 ROFL` |
 
@@ -110,7 +110,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3927. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3928. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
