@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3981"><img src="assets/ledger-light.svg?v=3981" width="100%" alt="ROFL ledger, height 3981"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3982"><img src="assets/ledger-light.svg?v=3982" width="100%" alt="ROFL ledger, height 3982"></picture>
 
 | | |
 |---|---|
-| **height** | `3981` |
-| **tip** | `9bf012cacf39066692821ca52925e3229ae442657cc1adbaf010b1d8f76356d4` |
+| **height** | `3982` |
+| **tip** | `83a892146248fde870436089b7ab6baa8cb635bc09b595e92ae2947afbe927fb` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,061,685,974` expected hashes |
-| **supply** | `20999.95840826 ROFL` in `3982` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,062,734,549` expected hashes |
+| **supply** | `20999.95859899 ROFL` in `3983` unspent outputs |
 | **next reward** | `0.00019073 ROFL` |
-| **next retarget** | in `2` block(s) |
-| **next halving** | in `8` block(s) |
-| **transactions** | `3984` |
+| **next retarget** | in `1` block(s) |
+| **next halving** | in `7` block(s) |
+| **transactions** | `3985` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3982` | `83a892146248fde87043…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 13:34 UTC |
 | `3981` | `9bf012cacf3906669282…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 13:14 UTC |
 | `3980` | `cfd4cb1bc3c249f16ab8…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium Fleet #2 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 12:57 UTC |
 | `3979` | `3a0f94f2f17d078c3a90…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 12:40 UTC |
@@ -44,7 +45,6 @@
 | `3975` | `d13c16d2552ed1c1a350…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 11:38 UTC |
 | `3974` | `644dfa0becda50f685cf…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 11:21 UTC |
 | `3973` | `dae2db4b2a637bccb3ae…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 11:04 UTC |
-| `3972` | `f54379cee394bfaa9261…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00019073` | 2026-09-28 10:54 UTC |
 
 ### Miners
 
@@ -99,7 +99,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.06408665 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
-| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.03051729 ROFL` |
+| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.03070802 ROFL` |
 | [@daxang](https://github.com/daxang) | `rofl1qaehvw6vzus7dmrssc4rul2hgrfxdhwzc8c9h4k` | `0.02250640 ROFL` |
 | _unclaimed_ | `rofl1ql2wuplshkc5586ea8hejg93eft8cun473xc2v5` | `0.00305175 ROFL` |
 
@@ -110,7 +110,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3981. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3982. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
