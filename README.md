@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3995"><img src="assets/ledger-light.svg?v=3995" width="100%" alt="ROFL ledger, height 3995"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=3996"><img src="assets/ledger-light.svg?v=3996" width="100%" alt="ROFL ledger, height 3996"></picture>
 
 | | |
 |---|---|
-| **height** | `3995` |
-| **tip** | `bf298efcb92a861c859a3ce54882f7cd76674971473725fad300d24285a010a2` |
+| **height** | `3996` |
+| **tip** | `421dea12ae5e34a9f008e5e6bcd088c0f679c91f035c1b3384d506d92fca2eda` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,076,366,024` expected hashes |
-| **supply** | `20999.96050626 ROFL` in `3996` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,077,414,599` expected hashes |
+| **supply** | `20999.96060162 ROFL` in `3997` unspent outputs |
 | **next reward** | `0.00009536 ROFL` |
-| **next retarget** | in `4` block(s) |
-| **next halving** | in `204` block(s) |
-| **transactions** | `3998` |
+| **next retarget** | in `3` block(s) |
+| **next halving** | in `203` block(s) |
+| **transactions** | `3999` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `3996` | `421dea12ae5e34a9f008…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00009536` | 2026-09-28 17:15 UTC |
 | `3995` | `bf298efcb92a861c859a…` | [@ywltby](https://github.com/ywltby) | `康神开播了？` | `1` | `0.00009536` | 2026-09-28 16:58 UTC |
 | `3994` | `48d97057b8a1b2688891…` | [@ram0verflow](https://github.com/ram0verflow) | `no institutional tethers to ground it` | `1` | `0.00009536` | 2026-09-28 16:53 UTC |
 | `3993` | `dd65987fb3f41504bba2…` | [@ywltby](https://github.com/ywltby) | `都是同龄人，我原本没想降维打击。` | `1` | `0.00009536` | 2026-09-28 16:11 UTC |
@@ -44,7 +45,6 @@
 | `3989` | `f51d72a00fe7a6dd2720…` | [@ywltby](https://github.com/ywltby) | `输你一场，不代表我们会一直输给你。` | `1` | `0.00019073` | 2026-09-28 15:11 UTC |
 | `3988` | `51c31938b3ad9aab5d67…` | [@ywltby](https://github.com/ywltby) | `排位，比世界赛决赛还难打。` | `1` | `0.00019073` | 2026-09-28 14:54 UTC |
 | `3987` | `74432a01c6c69ec16d2e…` | [@ywltby](https://github.com/ywltby) | `都是同龄人，我原本没想降维打击。` | `1` | `0.00019073` | 2026-09-28 14:38 UTC |
-| `3986` | `c555eca54b51089e3173…` | [@ywltby](https://github.com/ywltby) | `以前说拿了世界冠军就不骂我了，` | `1` | `0.00019073` | 2026-09-28 14:22 UTC |
 
 ### Miners
 
@@ -99,7 +99,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.06408665 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
-| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.03070802 ROFL` |
+| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.03080338 ROFL` |
 | [@daxang](https://github.com/daxang) | `rofl1qaehvw6vzus7dmrssc4rul2hgrfxdhwzc8c9h4k` | `0.02250640 ROFL` |
 | _unclaimed_ | `rofl1ql2wuplshkc5586ea8hejg93eft8cun473xc2v5` | `0.00305175 ROFL` |
 
@@ -110,7 +110,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 3995. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 3996. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
