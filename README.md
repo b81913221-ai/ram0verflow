@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=4227"><img src="assets/ledger-light.svg?v=4227" width="100%" alt="ROFL ledger, height 4227"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=4228"><img src="assets/ledger-light.svg?v=4228" width="100%" alt="ROFL ledger, height 4228"></picture>
 
 | | |
 |---|---|
-| **height** | `4227` |
-| **tip** | `99f3dd458586d79dde5a0c07b46ce35c5ceeb368f3dc6f8d4d745f6e47ea3741` |
+| **height** | `4228` |
+| **tip** | `5f113690b02d2c138b4f60435bd22b25c017861638f7e7fe79a4fde6234c0dcc` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,319,635,424` expected hashes |
-| **supply** | `20999.98129474 ROFL` in `4228` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,521,320,683,999` expected hashes |
+| **supply** | `20999.98134242 ROFL` in `4229` unspent outputs |
 | **next reward** | `0.00004768 ROFL` |
-| **next retarget** | in `12` block(s) |
-| **next halving** | in `182` block(s) |
-| **transactions** | `4230` |
+| **next retarget** | in `11` block(s) |
+| **next halving** | in `181` block(s) |
+| **transactions** | `4231` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `4228` | `5f113690b02d2c138b4f…` | [@ywltby](https://github.com/ywltby) | `流水的天才，铁打的ZmjjKK。` | `1` | `0.00004768` | 2026-10-01 01:35 UTC |
 | `4227` | `99f3dd458586d79dde5a…` | [@ywltby](https://github.com/ywltby) | `以前说拿了世界冠军就不骂我了，` | `1` | `0.00004768` | 2026-10-01 01:24 UTC |
 | `4226` | `8787cb0d0fe3e7046377…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00004768` | 2026-10-01 01:24 UTC |
 | `4225` | `910bc27ed52d9c41c517…` | [@ywltby](https://github.com/ywltby) | `康神开播了？` | `1` | `0.00004768` | 2026-10-01 00:58 UTC |
@@ -44,15 +45,14 @@
 | `4221` | `931223bbeb2985f90fc6…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Bohrium 1 &amp; longtime666999-dev` | `1` | `0.00004768` | 2026-10-01 00:12 UTC |
 | `4220` | `072241715fbf09c18b12…` | [@ram0verflow](https://github.com/ram0verflow) | `mathematical truth does not discriminate by wealth, status, or power` | `1` | `0.00004768` | 2026-10-01 00:04 UTC |
 | `4219` | `910f86399feeeaf993ad…` | [@ywltby](https://github.com/ywltby) | `原神？启动！` | `1` | `0.00004768` | 2026-09-30 22:42 UTC |
-| `4218` | `7e3cc75fead66004177f…` | [@ywltby](https://github.com/ywltby) | `T1我们明天就把你送回家。` | `1` | `0.00004768` | 2026-09-30 22:29 UTC |
 
 ### Miners
 
 | miner | blocks | share |
 |---|--:|--:|
-| [@ywltby](https://github.com/ywltby) | `2020` | `47.8%` |
+| [@ywltby](https://github.com/ywltby) | `2021` | `47.8%` |
 | [@ksanjeev284](https://github.com/ksanjeev284) | `488` | `11.5%` |
-| [@americanvain](https://github.com/americanvain) | `315` | `7.5%` |
+| [@americanvain](https://github.com/americanvain) | `315` | `7.4%` |
 | [@hbzhong](https://github.com/hbzhong) | `312` | `7.4%` |
 | [@sd5884703](https://github.com/sd5884703) | `164` | `3.9%` |
 | [@b81913221-ai](https://github.com/b81913221-ai) | `110` | `2.6%` |
@@ -71,7 +71,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 |---|---|--:|
 | [@ksanjeev284](https://github.com/ksanjeev284) | `rofl1qn2wv00sq9a875c7pmqf4hfu2ca2y7fa0le96wk` | `15112.50000000 ROFL` |
 | _unclaimed_ | `rofl1qhkhmy848s09y2jyly8jexk4gd3gnrrclxj2exx` | `2062.53681160 ROFL` |
-| [@ywltby](https://github.com/ywltby) | `rofl1qrrj2pn86jy9ylnatdwuqfazq0ur5pv7xq9lja3` | `735.02729095 ROFL` |
+| [@ywltby](https://github.com/ywltby) | `rofl1qrrj2pn86jy9ylnatdwuqfazq0ur5pv7xq9lja3` | `735.02733863 ROFL` |
 | [@eltociear](https://github.com/eltociear) | `rofl1qdsfz9v9r2hc798k26egt33zxj8ysg4cgwgcw2z` | `612.50000000 ROFL` |
 | [@uselessfree](https://github.com/uselessfree) | `rofl1qm3zqhkwlh85xsaktutuculxhcqnd8vwnj6rt3z` | `589.84375000 ROFL` |
 | [@bulanzade](https://github.com/bulanzade) | `rofl1qhu2r7ghewxnxgkruvrx94udl3nduj2a5u3w2my` | `468.75000000 ROFL` |
@@ -111,7 +111,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 4227. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 4228. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
