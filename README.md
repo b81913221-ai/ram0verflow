@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=5261"><img src="assets/ledger-light.svg?v=5261" width="100%" alt="ROFL ledger, height 5261"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=5262"><img src="assets/ledger-light.svg?v=5262" width="100%" alt="ROFL ledger, height 5262"></picture>
 
 | | |
 |---|---|
-| **height** | `5261` |
-| **tip** | `5aec6745e8925dfeef9e4c74b682ce76e57946814f9ed43f67b895f67f129370` |
+| **height** | `5262` |
+| **tip** | `59856f30d70f140a83aa83c3e25ede755da254ca1ebb5a84c4caa5dfbba96b30` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,522,403,861,974` expected hashes |
-| **supply** | `20999.99937738 ROFL` in `5262` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,522,404,910,549` expected hashes |
+| **supply** | `20999.99937887 ROFL` in `5263` unspent outputs |
 | **next reward** | `0.00000149 ROFL` |
-| **next retarget** | in `2` block(s) |
-| **next halving** | in `198` block(s) |
-| **transactions** | `5264` |
+| **next retarget** | in `1` block(s) |
+| **next halving** | in `197` block(s) |
+| **transactions** | `5265` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `5262` | `59856f30d70f140a83aa…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Oracle Cloud 1 (Montreal) &amp; longtime666999-dev` | `1` | `0.00000149` | 2026-10-11 07:36 UTC |
 | `5261` | `5aec6745e8925dfeef9e…` | [@ywltby](https://github.com/ywltby) | `输你一场，不代表我们会一直输给你。` | `1` | `0.00000149` | 2026-10-11 07:25 UTC |
 | `5260` | `5b7f7954442a436145c6…` | [@ram0verflow](https://github.com/ram0verflow) | `gold tarnishes and must be secured` | `1` | `0.00000149` | 2026-10-11 07:18 UTC |
 | `5259` | `62affce7567864dd8ee0…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Oracle Cloud 1 (Montreal) &amp; longtime666999-dev` | `1` | `0.00000149` | 2026-10-11 06:59 UTC |
@@ -44,7 +45,6 @@
 | `5255` | `2a8e4f987ac3e2ca0ac7…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Oracle Cloud 1 (Montreal) &amp; longtime666999-dev` | `1` | `0.00000149` | 2026-10-11 06:12 UTC |
 | `5254` | `1a7e325cc7b3aa3718b7…` | [@ywltby](https://github.com/ywltby) | `康神开播了？` | `1` | `0.00000149` | 2026-10-11 05:37 UTC |
 | `5253` | `382bbd29202b28a168fa…` | [@ywltby](https://github.com/ywltby) | `现在拿了世界冠军还在骂我，那拿了世界冠军有什么用呢？` | `1` | `0.00000149` | 2026-10-11 05:23 UTC |
-| `5252` | `81f5e49025c48d1db361…` | [@longtime666999-dev](https://github.com/longtime666999-dev) | `gm from Oracle Cloud 1 (Montreal) &amp; longtime666999-dev` | `1` | `0.00000149` | 2026-10-11 05:23 UTC |
 
 ### Miners
 
@@ -52,7 +52,7 @@
 |---|--:|--:|
 | [@ywltby](https://github.com/ywltby) | `2591` | `49.2%` |
 | [@ksanjeev284](https://github.com/ksanjeev284) | `488` | `9.3%` |
-| [@longtime666999-dev](https://github.com/longtime666999-dev) | `473` | `9.0%` |
+| [@longtime666999-dev](https://github.com/longtime666999-dev) | `474` | `9.0%` |
 | [@americanvain](https://github.com/americanvain) | `315` | `6.0%` |
 | [@hbzhong](https://github.com/hbzhong) | `312` | `5.9%` |
 | [@sd5884703](https://github.com/sd5884703) | `164` | `3.1%` |
@@ -98,7 +98,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | _unclaimed_ | `rofl1qyj5rcsu0wazjesvrve9utmvty4t8p0n9ulsd2f` | `0.26057579 ROFL` |
 | _unclaimed_ | `rofl1q2fuw29475jc0mf2tfmufkf90u76pxwtlxn997z` | `0.06408665 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
-| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.03646091 ROFL` |
+| [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.03646240 ROFL` |
 | _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.03356928 ROFL` |
 | [@daxang](https://github.com/daxang) | `rofl1qaehvw6vzus7dmrssc4rul2hgrfxdhwzc8c9h4k` | `0.02250640 ROFL` |
 | _unclaimed_ | `rofl1ql2wuplshkc5586ea8hejg93eft8cun473xc2v5` | `0.00305175 ROFL` |
@@ -111,7 +111,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 5261. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 5262. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
